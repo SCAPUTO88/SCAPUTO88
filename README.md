@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @SCAPUTO88
-- 👀 I’m interested in learning, at all.
-- 🌱 I’m currently learning javascript, nodejs, SQL and, of course, github
-- 📫 How to reach me:
+
+
+
+- 👋 Olá, sou o Sandro e estou no segundo ano de ADS. Aprendendo a usar o GitHub.
+- 👀 Meu interesse no momento é aprender e entrar no mercado de trabalho.
+- 🌱 Estou estudando javascript, nodejs, SQL e, é claro, github.
+- 📫 Onde me encontrar:
 - Discord: scaputo#6980
 - Linkedin: https://www.linkedin.com/in/sandro-caputo-647860115/
 
