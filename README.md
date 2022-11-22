@@ -1,9 +1,12 @@
 
 
+- Olá, eu sou o Sandro e sou desenvolvedor backend júnior. 
+- Trabalho com Node e Nest. 
+- Atualmente estudo muito e ainda estou em fase de aprendizado :)
+- Uso esse GitHub especificamente pra colocar os meus projetos de estudo e, futuramente, meus projetos pessoais.
 
-- 👋 Olá, sou o Sandro e estou no segundo ano de ADS. Aprendendo a usar o GitHub.
-- 👀 Meu interesse no momento é aprender e entrar no mercado de trabalho.
-- 🌱 Estou estudando javascript, nodejs, SQL e, é claro, github.
+
+
 - 📫 Onde me encontrar:
 - Discord: scaputo#6980
 - Linkedin: https://www.linkedin.com/in/sandro-caputo-647860115/
