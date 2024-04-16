@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sandro.caputo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sH1LwVayQiKLLaYXXJ4eScaDsIp4B9k8/view?usp=sharing](https://drive.google.com/file/d/1sH1LwVayQiKLLaYXXJ4eScaDsIp4B9k8/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1n-UfBKoL6me9Ugv7ViktHYu4EFSpB8Sz/view?usp=sharing)
 
 - ⚡ Fun fact **I am an ramen enthusiast.**
 
