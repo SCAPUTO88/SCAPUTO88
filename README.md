@@ -13,7 +13,7 @@
 🚀 **Backend**: Java (Spring Boot), Node.js (NestJS, Express)  
 💾 **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
 📡 **DevOps & Cloud**: AWS, Docker, Kubernetes, Terraform  
-📊 **Monitoring & Logging**: Grafana, Prometheus, Elastic Stack  
+📊 **Monitoring & Logging**: Grafana, Prometheus, Datadog, Cloudwatch  
 🔗 **Messaging**: Kafka, RabbitMQ  
 
 ---
