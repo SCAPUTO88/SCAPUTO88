@@ -4,13 +4,13 @@
 ---
 
 ### 👨‍💻 About Me  
-- 💻 Backend Engineer working mainly with **Java & Spring Boot**  
+- 💻 Backend Engineer working mainly with **Java & Spring Boot & Go**  
 - ☁️ Experience with **AWS, Kafka, Docker, and microservices**  
 - 📊 Passionate about **clean architecture, high-performance systems, and observability**  
 - 🍜 Ramen enthusiast & One Piece fan  
 
 ### 🛠️ Tech Stack  
-🚀 **Backend**: Java (Spring Boot), Node.js (NestJS, Express) , Go
+🚀 **Backend**: Java (Spring Boot), Node.js (NestJS, Express) , Go 
 💾 **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
 📡 **DevOps & Cloud**: AWS, Docker, Kubernetes, Terraform  
 📊 **Monitoring & Logging**: Grafana, Prometheus, Datadog, Cloudwatch  
