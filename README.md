@@ -10,7 +10,7 @@
 - 🍜 Ramen enthusiast & One Piece fan  
 
 ### 🛠️ Tech Stack  
-🚀 **Backend**: Java (Spring Boot), Node.js (NestJS, Express)  
+🚀 **Backend**: Java (Spring Boot), Node.js (NestJS, Express) , Go
 💾 **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
 📡 **DevOps & Cloud**: AWS, Docker, Kubernetes, Terraform  
 📊 **Monitoring & Logging**: Grafana, Prometheus, Datadog, Cloudwatch  
