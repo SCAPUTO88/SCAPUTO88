@@ -69,3 +69,13 @@
     width="400"
   />
 </p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SCAPUTO88&theme=github-compact&hide_border=true"
+    alt="Sandro's contribution activity"
+    width="100%"
+  />
+</p>
