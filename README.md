@@ -54,28 +54,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandro%20Caputo-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/scaputo88)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SCAPUTO88&show_icons=true&theme=dark&hide_border=true"
-    alt="Sandro's GitHub stats"
-    width="400"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCAPUTO88&layout=compact&theme=dark&hide_border=true"
-    alt="Most used languages"
-    width="400"
-  />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SCAPUTO88&theme=github-compact&hide_border=true"
-    alt="Sandro's contribution activity"
-    width="100%"
   />
 </p>
